@@ -1,5 +1,4 @@
 # Computer Science I
-cs1-portfolio
 Projects completed in Computer Science I
 
 My name is Sam Slightom. This portfolio includes projects I completed in Computer Science I
